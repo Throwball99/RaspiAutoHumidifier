@@ -1,5 +1,5 @@
 # RaspiAutoHumidifier
-## [리눅스시스템설계 기말고사 텀프로젝트] 자동 가습기
+## [리눅스시스템설계 텀프로젝트] 자동 가습기
 ![4c62796f-f6df-4449-b4de-4a966145c2a1-0](https://github.com/user-attachments/assets/2b5ab819-73d2-4be9-a541-7a48fba51daf)
 ![4c62796f-f6df-4449-b4de-4a966145c2a1-1](https://github.com/user-attachments/assets/97be67f5-54aa-4b01-9f48-e2b792a10331)
 ![4c62796f-f6df-4449-b4de-4a966145c2a1-2](https://github.com/user-attachments/assets/c3911bbd-4361-4fad-8980-2806f2abe0a5)
